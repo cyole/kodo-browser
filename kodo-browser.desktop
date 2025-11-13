@@ -1,10 +1,9 @@
 [Desktop Entry]
 Categories=Utility;
-Comment=Kodo Browser
+Comment=Qiniu Kodo Browser
 Exec=kodo-browser
 Icon=kodo-browser
 Keywords=kodo;
-Name=Kodo
 Name=Kodo Browser
 Name[zh_CN]=Kodo 浏览器
 Type=Application
